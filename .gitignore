@@ -1,0 +1,10 @@
+# Virtual environment
+faq_env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore any IDE project settings
+.vscode/
+.idea/
