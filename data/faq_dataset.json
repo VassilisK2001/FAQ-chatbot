@@ -1,0 +1,402 @@
+[
+    {
+        "question": "I want to receive updates on new audio tours.",
+        "answer": "You can sign up for our newsletter on our website to receive updates."
+    },
+    {
+        "question": "How do I upgrade to a premium audio tour?",
+        "answer": "You can upgrade to a premium audio tour in the app by selecting the desired tour and paying the difference."
+    },
+    {
+        "question": "Are the audio tours available in multiple languages?",
+        "answer": "Yes, our audio tours are available in several languages including English, Spanish, French, and German."
+    },
+    {
+        "question": "I can't change my profile picture in the app.",
+        "answer": "Please check if you're following the correct steps in the settings menu."
+    },
+    {
+        "question": "How can I provide feedback about the app?",
+        "answer": "You can provide feedback through the feedback section in the app or email us directly at support@audiotours.com."
+    },
+    {
+        "question": "I didn't receive the audio tour after purchase.",
+        "answer": "We're sorry for the inconvenience. Please check your email for the download link. If you don't see it, contact us at support@audiotours.com."
+    },
+    {
+        "question": "Are there any special promotions for audio tours?",
+        "answer": "We often have promotions during holidays and special events. Check our website for current offers."
+    },
+    {
+        "question": "I didn't receive the audio tour after purchase.",
+        "answer": "We're sorry for the inconvenience. Please check your email for the download link. If you don't see it, contact us at support@audiotours.com."
+    },
+    {
+        "question": "The audio tour did not match the description on the website.",
+        "answer": "We apologize for the discrepancy. Please contact support to address this issue."
+    },
+    {
+        "question": "How can I report bugs in the app?",
+        "answer": "You can report bugs through the feedback section or by emailing our support team at support@audiotours.com."
+    },
+    {
+        "question": "What devices are compatible with your audio tours?",
+        "answer": "Our audio tours are compatible with most smartphones, tablets, and computers."
+    },
+    {
+        "question": "I have issues with payment processing in the app.",
+        "answer": "If you're having payment issues, please contact our support team for assistance at support@audiotours.com."
+    },
+    {
+        "question": "How can I report bugs in the app?",
+        "answer": "You can report bugs through the feedback section or by emailing our support team at support@audiotours.com."
+    },
+    {
+        "question": "Can I create an account on the mobile app?",
+        "answer": "Yes, you can easily create an account within the app."
+    },
+    {
+        "question": "I can't pause or resume my audio tour.",
+        "answer": "Try checking your app settings or restarting the app."
+    },
+    {
+        "question": "How can I find the audio tours for specific monuments?",
+        "answer": "You can search for specific monuments using our app or website."
+    },
+    {
+        "question": "The audio tour is not compatible with my device.",
+        "answer": "Please check our website for compatibility requirements or contact support."
+    },
+    {
+        "question": "I didn't receive the audio tour after purchase.",
+        "answer": "We're sorry for the inconvenience. Please check your email for the download link. If you don't see it, contact us at support@audiotours.com."
+    },
+    {
+        "question": "Can I sync my purchases between the app and website?",
+        "answer": "Yes, your purchases will sync across the app and website if you use the same account."
+    },
+    {
+        "question": "How can I report bugs in the app?",
+        "answer": "You can report bugs through the feedback section or by emailing our support team at support@audiotours.com."
+    },
+    {
+        "question": "The app is not displaying the correct language.",
+        "answer": "You can change the language in the settings menu of the app."
+    },
+    {
+        "question": "The app is running very slowly.",
+        "answer": "We apologize for the slow performance. Please check your internet connection and try again."
+    },
+    {
+        "question": "Can I purchase audio tours individually?",
+        "answer": "Yes, you can purchase audio tours individually or as a package."
+    },
+    {
+        "question": "The audio tour does not include all the stops mentioned.",
+        "answer": "We apologize for any omissions. Please check your tour details, and let us know if there's an issue."
+    },
+    {
+        "question": "The map feature in the app is not working.",
+        "answer": "We apologize for the inconvenience. Please ensure location services are enabled."
+    },
+    {
+        "question": "Is there a desktop version of the audio tours app?",
+        "answer": "Currently, we only offer a mobile app; however, you can access audio tours via our website."
+    },
+    {
+        "question": "I received an error message while using the app.",
+        "answer": "Please take note of the error message and contact support for help."
+    },
+    {
+        "question": "The audio tour did not match the description on the website.",
+        "answer": "We apologize for the discrepancy. Please contact support to address this issue."
+    },
+    {
+        "question": "How do I log in to my account on the app?",
+        "answer": "Open the app and enter your credentials on the login page."
+    },
+    {
+        "question": "Do you offer gift cards for audio tours?",
+        "answer": "Yes, we offer gift cards that can be purchased on our website."
+    },
+    {
+        "question": "Is there a trial available for the audio tours?",
+        "answer": "Currently, we do not offer trials, but you can preview some content in our app."
+    },
+    {
+        "question": "Can I create an account on the mobile app?",
+        "answer": "Yes, you can easily create an account within the app."
+    },
+    {
+        "question": "What should I do if I forget my app password?",
+        "answer": "Use the 'Forgot Password' option on the login screen to reset it."
+    },
+    {
+        "question": "Are the audio tours narrated by professionals?",
+        "answer": "Yes, all our audio tours are narrated by experienced professionals."
+    },
+    {
+        "question": "The audio tour does not include all the stops mentioned.",
+        "answer": "We apologize for any omissions. Please check your tour details, and let us know if there's an issue."
+    },
+    {
+        "question": "I can't pause or resume my audio tour.",
+        "answer": "Try checking your app settings or restarting the app."
+    },
+    {
+        "question": "I can't change my profile picture in the app.",
+        "answer": "Please check if you're following the correct steps in the settings menu."
+    },
+    {
+        "question": "The app does not load my favorites.",
+        "answer": "Please check if you're logged into your account to view favorites."
+    },
+    {
+        "question": "I want to remove ads from the app.",
+        "answer": "Currently, we do not offer an ad-free version of the app."
+    },
+    {
+        "question": "The audio tour is incomplete.",
+        "answer": "We apologize for the inconvenience. Please let us know which tour you're having issues with, and contact us at support@audiotours.com."
+    },
+    {
+        "question": "The app does not support my device.",
+        "answer": "Please check the app's compatibility requirements on our website."
+    },
+    {
+        "question": "The app does not provide enough information about the tours.",
+        "answer": "Thank you for your input! We will consider adding more detailed descriptions."
+    },
+    {
+        "question": "I would like a refund for my audio tour purchase.",
+        "answer": "We can help you with that. Please refer to our refund policy and contact support at support@audiotours.com."
+    },
+    {
+        "question": "The search function in the app is not effective.",
+        "answer": "Thank you for your feedback. We're continuously working to improve our search functionality."
+    },
+    {
+        "question": "I can't change my profile picture in the app.",
+        "answer": "Please check if you're following the correct steps in the settings menu."
+    },
+    {
+        "question": "The audio tour does not include all the stops mentioned.",
+        "answer": "We apologize for any omissions. Please check your tour details, and let us know if there's an issue."
+    },
+    {
+        "question": "Does the app have user-generated content?",
+        "answer": "No, currently our app does not support user-generated content."
+    },
+    {
+        "question": "Can I listen to audio tours directly in the app?",
+        "answer": "Absolutely! All audio tours can be played directly from the app."
+    },
+    {
+        "question": "The app does not support my device.",
+        "answer": "Please check the app's compatibility requirements on our website."
+    },
+    {
+        "question": "Can I sync my purchases between the app and website?",
+        "answer": "Yes, your purchases will sync across the app and website if you use the same account."
+    },
+    {
+        "question": "How can I find the audio tours for specific monuments?",
+        "answer": "You can search for specific monuments using our app or website."
+    },
+    {
+        "question": "Do you offer gift cards for audio tours?",
+        "answer": "Yes, we offer gift cards that can be purchased on our website."
+    },
+    {
+        "question": "What should I do if I forget my app password?",
+        "answer": "Use the 'Forgot Password' option on the login screen to reset it."
+    },
+    {
+        "question": "I can't pause or resume my audio tour.",
+        "answer": "Try checking your app settings or restarting the app."
+    },
+    {
+        "question": "The audio tour format is not what I expected.",
+        "answer": "Please let us know what you were expecting, and we can assist you."
+    },
+    {
+        "question": "Does the app work without an internet connection?",
+        "answer": "Yes, once downloaded, the audio tours can be accessed offline."
+    },
+    {
+        "question": "Do you offer gift cards for audio tours?",
+        "answer": "Yes, we offer gift cards that can be purchased on our website."
+    },
+    {
+        "question": "Can I access the audio tours offline?",
+        "answer": "Yes, once downloaded, you can access the audio tours offline."
+    },
+    {
+        "question": "The app is not allowing me to share my tours.",
+        "answer": "Sharing features are not available currently, but we appreciate your suggestion."
+    },
+    {
+        "question": "The audio tour I received is not the one I ordered.",
+        "answer": "We apologize for this mix-up. Please contact support at support@audiotours.com for a resolution."
+    },
+    {
+        "question": "I have issues with payment processing in the app.",
+        "answer": "If you're having payment issues, please contact our support team for assistance at support@audiotours.com."
+    },
+    {
+        "question": "I want to report a problem with the audio tour content.",
+        "answer": "Thank you for letting us know. Please provide details, and we will investigate."
+    },
+    {
+        "question": "I'm unable to share the audio tour with a friend.",
+        "answer": "Currently, sharing features are not available, but we appreciate your suggestion."
+    },
+    {
+        "question": "How do I get a refund for an unused audio tour?",
+        "answer": "Please refer to our refund policy and contact support for further assistance."
+    },
+    {
+        "question": "Can I download the audio tours to my device?",
+        "answer": "Yes, you can download the audio tours to your device for offline use."
+    },
+    {
+        "question": "How do I change my account settings in the app?",
+        "answer": "Go to the settings section in the app to update your account information."
+    },
+    {
+        "question": "The app is not allowing me to share my tours.",
+        "answer": "Sharing features are not available currently, but we appreciate your suggestion."
+    },
+    {
+        "question": "I can't find the audio tours I purchased in the app.",
+        "answer": "Please check your library in the app for purchased tours."
+    },
+    {
+        "question": "What should I do if I forget my app password?",
+        "answer": "Use the 'Forgot Password' option on the login screen to reset it."
+    },
+    {
+        "question": "Are there any special promotions for audio tours?",
+        "answer": "We often have promotions during holidays and special events. Check our website for current offers."
+    },
+    {
+        "question": "What is the duration of the audio tours?",
+        "answer": "The duration varies by tour, but most are between 1 to 2 hours long."
+    },
+    {
+        "question": "How do I log in to my account on the app?",
+        "answer": "Open the app and enter your credentials on the login page."
+    },
+    {
+        "question": "How can I provide feedback about the app?",
+        "answer": "You can provide feedback through the feedback section in the app or email us directly at support@audiotours.com."
+    },
+    {
+        "question": "Is the mobile app available for both Android and iOS?",
+        "answer": "Yes, our app is available on both platforms for download."
+    },
+    {
+        "question": "How do I upgrade to a premium audio tour?",
+        "answer": "You can upgrade to a premium audio tour in the app by selecting the desired tour and paying the difference."
+    },
+    {
+        "question": "I didn't receive the audio tour after purchase.",
+        "answer": "We're sorry for the inconvenience. Please check your email for the download link. If you don't see it, contact us at support@audiotours.com."
+    },
+    {
+        "question": "The app does not support my device.",
+        "answer": "Please check the app's compatibility requirements on our website."
+    },
+    {
+        "question": "How do I redeem a purchased audio tour?",
+        "answer": "You can redeem your purchased audio tour in the app by entering your code or accessing it from your account."
+    },
+    {
+        "question": "Are the audio tours narrated by professionals?",
+        "answer": "Yes, all our audio tours are narrated by experienced professionals."
+    },
+    {
+        "question": "The app is not allowing me to share my tours.",
+        "answer": "Sharing features are not available currently, but we appreciate your suggestion."
+    },
+    {
+        "question": "Is there a trial available for the audio tours?",
+        "answer": "Currently, we do not offer trials, but you can preview some content in our app."
+    },
+    {
+        "question": "I can't log into my account on the mobile app.",
+        "answer": "Please check your credentials and ensure you're using the correct login method."
+    },
+    {
+        "question": "I didn't receive the audio tour after purchase.",
+        "answer": "We're sorry for the inconvenience. Please check your email for the download link. If you don't see it, contact us at support@audiotours.com."
+    },
+    {
+        "question": "The audio tour did not match the description on the website.",
+        "answer": "We apologize for the discrepancy. Please contact support to address this issue."
+    },
+    {
+        "question": "Can I share the audio tour with someone else?",
+        "answer": "Audio tours are tied to your account and cannot be shared, but you can recommend them."
+    },
+    {
+        "question": "The app does not load my favorites.",
+        "answer": "Please check if you're logged into your account to view favorites."
+    },
+    {
+        "question": "Does the app have user-generated content?",
+        "answer": "No, currently our app does not support user-generated content."
+    },
+    {
+        "question": "Is the mobile app available for both Android and iOS?",
+        "answer": "Yes, our app is available on both platforms for download."
+    },
+    {
+        "question": "What should I do if I forget my app password?",
+        "answer": "Use the 'Forgot Password' option on the login screen to reset it."
+    },
+    {
+        "question": "Do you provide headphones with the audio tours?",
+        "answer": "No, we recommend using your own headphones for the best experience."
+    },
+    {
+        "question": "The search function in the app is not effective.",
+        "answer": "Thank you for your feedback. We're continuously working to improve our search functionality."
+    },
+    {
+        "question": "Can I share the audio tour with someone else?",
+        "answer": "Audio tours are tied to your account and cannot be shared, but you can recommend them."
+    },
+    {
+        "question": "The app keeps crashing on my device.",
+        "answer": "We're sorry for the inconvenience. Please try updating the app or reinstalling it. If the issue persists, contact us at support@audiotours.com."
+    },
+    {
+        "question": "Does the app have user-generated content?",
+        "answer": "No, currently our app does not support user-generated content."
+    },
+    {
+        "question": "I'm not receiving notifications from the app.",
+        "answer": "Ensure that notifications are enabled in your device settings."
+    },
+    {
+        "question": "The audio tour is missing key information.",
+        "answer": "We appreciate your feedback! Please let us know which tour needs improvement."
+    },
+    {
+        "question": "What audio tours do you offer?",
+        "answer": "We offer a variety of audio tours for historical monuments worldwide, including the Colosseum, Eiffel Tower, and more."
+    },
+    {
+        "question": "I'm unable to share the audio tour with a friend.",
+        "answer": "Currently, sharing features are not available, but we appreciate your suggestion."
+    },
+    {
+        "question": "How do I download the audio tours app?",
+        "answer": "You can download the app from the Google Play Store or Apple App Store."
+    },
+    {
+        "question": "Can I share the audio tour with someone else?",
+        "answer": "Audio tours are tied to your account and cannot be shared, but you can recommend them."
+    }
+]
