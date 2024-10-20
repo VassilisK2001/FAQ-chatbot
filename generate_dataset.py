@@ -80,7 +80,7 @@ for i in range(5001, 6000):
     faq_dataset.append({
         "id": i,
         "question": issue,
-        "answer": "Please ensure your payment information is correct. If you're still having trouble, contact our support at {support_email} or call {support_phone}."
+        "answer": f"Please ensure your payment information is correct. If you're still having trouble, contact our support at {support_email} or call {support_phone}."
     })
 
 # Example 4: Group booking questions
@@ -89,7 +89,7 @@ for i in range(6001, 7000):
     faq_dataset.append({
         "id": i,
         "question": group_question,
-        "answer": "Yes, we offer group discounts! Please contact us at {support_email} for more information."
+        "answer": f"Yes, we offer group discounts! Please contact us at {support_email} for more information."
     })
 
 # Example 5: User account questions
@@ -98,7 +98,7 @@ for i in range(7001, 8000):
     faq_dataset.append({
         "id": i,
         "question": account_question,
-        "answer": "To reset your password, visit the 'Forgot Password' section on our login page, or reach out to support at {support_email}."
+        "answer": f"To reset your password, visit the 'Forgot Password' section on our login page, or reach out to support at {support_email}."
     })
 
 # Example 6: Complaints and refund requests
@@ -123,10 +123,13 @@ for i in range(9001, 10000):
         "answer": f"We apologize for the issue. Please check your spam or junk mail folder. If you still cannot find it, contact us at bookings@worldaudiotours.com or call {support_phone}, and we'll be happy to resend your confirmation or offer a refund."
     })
 
-# Export the generated data to a JSON file
+# Shuffle the dataset
+random.shuffle(faq_dataset)
+
+# Export the shuffled dataset to a JSON file
 try:
-    with open("expanded_faq_dataset.json", "w") as json_file:
+    with open("shuffled_faq_dataset.json", "w") as json_file:
         json.dump(faq_dataset, json_file, indent=4)
-    print("Expanded dataset created successfully! Check the file expanded_faq_dataset.json.")
+    print("Shuffled dataset created successfully! Check the file shuffled_faq_dataset.json.")
 except Exception as e:
     print(f"An error occurred: {e}")
