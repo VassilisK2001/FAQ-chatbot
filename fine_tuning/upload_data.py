@@ -11,12 +11,12 @@ try:
 
     # Upload training and validation data to openai for finetuning
     training_dataset = client.files.create(
-        file = open("./data/training.jsonl", "rb"),
+        file = open("../data/training.jsonl", "rb"),
         purpose = "fine-tune"
     )
 
     validation_dataset = client.files.create(
-        file = open("./data/validation.jsonl", "rb"),
+        file = open("../data/validation.jsonl", "rb"),
         purpose = "fine-tune"
     )
 
