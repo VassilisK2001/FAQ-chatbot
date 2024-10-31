@@ -1,5 +1,4 @@
 from openai import OpenAI
-import os 
 import dotenv
 
 dotenv.load_dotenv()
@@ -14,7 +13,7 @@ def create_fine_tuning(model_name, openai_key, train_id, eval_id, hyperparameter
         "validation_file": eval_id
     }
 
-    # Check if hyperparameters argument provided and ansure its a dictionary
+    # Check if hyperparameters argument provided and ensure it's a dictionary
     if (hyperparameters is not None):
         if (isinstance(hyperparameters, dict)):
             args["hyperparameters"] = hyperparameters
