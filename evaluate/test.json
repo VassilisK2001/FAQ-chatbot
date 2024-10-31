@@ -1,0 +1,287 @@
+[
+    {
+        "question": "Can you help me plan a wedding in Paris?",
+        "category": "Edge Cases",
+        "expected_output": "I'm sorry, but we don't provide wedding planning services. Would you like assistance with audio tours or tickets for monuments in Paris instead?"
+    },
+    {
+        "question": "I have an issue.",
+        "category": "Edge Cases",
+        "expected_output": "I'm here to help! Could you please describe the issue you're facing in more detail? Are you having trouble with the app or a specific tour?"
+    },
+    {
+        "question": "Is there a selection of audio tours available in different languages for the Great Wall of China?",
+        "category": "Products Offered",
+        "expected_output": "Yes, we offer audio tours for the Great Wall of China in multiple languages. You can select your preferred language during the purchase process."
+    },
+    {
+        "question": "I didn’t receive my audio tour after making the payment. What should I do?",
+        "category": "Complaints About Audio Tours",
+        "expected_output": "I'm sorry to hear that you haven't received your audio tour. Please check your spam folder for the confirmation email. If it's not there, contact our support team at support@globalaudiotours.com or call +1-800-555-0199 for further assistance."
+    },
+    {
+        "question": "How do I download your audio tour app on an Android device?",
+        "category": "Android and Desktop App",
+        "expected_output": "You can download our audio tour app from the Google Play Store. Simply search for 'Global Audio Tours' and click on 'Install'. If you need further assistance, feel free to reach out."
+    },
+    {
+        "question": "Do you provide travel insurance for audio tour bookings?",
+        "category": "Edge Cases",
+        "expected_output": "We don't offer travel insurance as part of our services. However, we can assist you with audio tours or tickets. Let us know how we can help!"
+    },
+    {
+        "question": "The audio keeps cutting out while I'm using the app. How can I fix this?",
+        "category": "Mobile App Complaints",
+        "expected_output": "I'm sorry to hear you're experiencing issues. Please ensure you're connected to a stable internet connection. If the problem continues, please contact our customer support at support@globalaudiotours.com or call +1-800-555-0199."
+    },
+    {
+        "question": "Can I find tours specifically designed for children visiting the Louvre?",
+        "category": "Products Offered",
+        "expected_output": "Yes, we offer audio tours designed for children visiting the Louvre that include engaging content tailored for younger audiences. You can find more details on our website."
+    },
+    {
+        "question": "Why does the app freeze during the audio tour?",
+        "category": "Mobile App Complaints",
+        "expected_output": "I'm sorry to hear about the freezing issue. Please ensure you have the latest version of the app installed. If the issue persists, please contact our support team at support@globalaudiotours.com."
+    },
+    {
+        "question": "Are there audio experiences for outdoor attractions like national parks?",
+        "category": "Products Offered",
+        "expected_output": "Yes, we provide audio tours for various outdoor attractions, including national parks. Please check our website for specific locations and availability."
+    },
+    {
+        "question": "How can I improve the performance of the audio tour app?",
+        "category": "Mobile App Complaints",
+        "expected_output": "To improve performance, ensure you have the latest app updates installed and close any unnecessary apps running in the background. If you continue to face issues, feel free to reach out for support."
+    },
+    {
+        "question": "I can't find my order.",
+        "category": "Edge Cases",
+        "expected_output": "Could you please provide your order details or the email associated with your purchase? This will help us assist you better."
+    },
+    {
+        "question": "How can I access your audio tours for lesser-known destinations, such as the Alhambra?",
+        "category": "Products Offered",
+        "expected_output": "You can access our audio tours for lesser-known destinations like the Alhambra directly through our website or app. Just search for the destination to view available tours."
+    },
+    {
+        "question": "What about the booking?",
+        "category": "Edge Cases",
+        "expected_output": "Could you please provide more details about your booking? Are you inquiring about a specific audio tour or your payment status?"
+    },
+    {
+        "question": "What features are included in your mobile app?",
+        "category": "Android and Desktop App",
+        "expected_output": "Our mobile app includes features such as offline access to audio tours, a built-in map, and user-friendly navigation. For more details, you can check our app description in the store."
+    },
+    {
+        "question": "Can you assist me with finding a local guide for my trip?",
+        "category": "Edge Cases",
+        "expected_output": "I'm sorry, but we do not provide local guide services. However, we can help you with audio tours or tickets for attractions. Let us know what you need assistance with!"
+    },
+    {
+        "question": "How do I apply for a job with your company?",
+        "category": "Edge Cases",
+        "expected_output": "For job inquiries, please visit our website's careers section where you can find current openings and application details."
+    },
+    {
+        "question": "What should I do if my confirmation email for the tour hasn’t arrived?",
+        "category": "Complaints About Audio Tours",
+        "expected_output": "Please check your spam or junk folder for the email. If you still can't find it, please contact our support team at support@globalaudiotours.com or call +1-800-555-0199."
+    },
+    {
+        "question": "Do you offer transportation services to the tour locations?",
+        "category": "Edge Cases",
+        "expected_output": "We do not provide transportation services to tour locations. However, we can assist you with audio tours and tickets for various attractions."
+    },
+    {
+        "question": "Are there any exclusive tours for famous landmarks like the Colosseum?",
+        "category": "Products Offered",
+        "expected_output": "Yes, we offer exclusive audio tours for famous landmarks such as the Colosseum. You can find more information on our website."
+    },
+    {
+        "question": "Why haven’t I received the download link for my audio tour?",
+        "category": "Complaints About Audio Tours",
+        "expected_output": "If you haven't received the download link, please check your spam folder. If it's not there, contact our support at support@globalaudiotours.com for assistance."
+    },
+    {
+        "question": "Can I get a refund if I didn’t receive my audio tour on time?",
+        "category": "Complaints About Audio Tours",
+        "expected_output": "Yes, if you didn't receive your audio tour on time, please contact our customer support at support@globalaudiotours.com, and we can assist you with the refund process."
+    },
+    {
+        "question": "Can you help me book train tickets through your service?",
+        "category": "Edge Cases",
+        "expected_output": "I'm sorry, but we do not provide train booking services. We can assist you with audio tours and monument tickets instead."
+    },
+    {
+        "question": "How do I navigate through the audio tour app?",
+        "category": "Android and Desktop App",
+        "expected_output": "You can find navigation instructions in the app's help section. If you need further assistance, please feel free to contact our support team."
+    },
+    {
+        "question": "I'm unable to log into the app. Is there a known issue?",
+        "category": "Mobile App Complaints",
+        "expected_output": "If you're unable to log in, please check if your app is updated. If the issue persists, you can contact our support team at support@globalaudiotours.com for help."
+    },
+    {
+        "question": "I need assistance.",
+        "category": "Edge Cases",
+        "expected_output": "I'm happy to assist! Could you clarify what type of assistance you need? Is it related to a booking, the app, or something else?"
+    },
+    {
+        "question": "Can you check the status of my audio tour order?",
+        "category": "Complaints About Audio Tours",
+        "expected_output": "Please provide your order details, and we can check the status for you. You can reach us at support@globalaudiotours.com or call +1-800-555-0199."
+    },
+    {
+        "question": "Help with my payment.",
+        "category": "Edge Cases",
+        "expected_output": "I'm here to help! Could you clarify what issue you're facing with your payment? Are you having trouble processing the payment or needing a refund?"
+    },
+    {
+        "question": "Are there any age restrictions for your audio tours?",
+        "category": "Products Offered",
+        "expected_output": "There are no age restrictions for our audio tours. They are designed to be suitable for all ages."
+    },
+    {
+        "question": "How frequently do you update the desktop version of the app?",
+        "category": "Android and Desktop App",
+        "expected_output": "We regularly update the desktop version to ensure it has the latest features and improvements. For specific update details, please check our website."
+    },
+    {
+        "question": "Can you recommend a good restaurant near the Eiffel Tower?",
+        "category": "Edge Cases",
+        "expected_output": "I'm sorry, but we don't provide restaurant recommendations. However, we can assist you with audio tours or tickets for attractions in that area."
+    },
+    {
+        "question": "Is there a minimum age requirement for your tours?",
+        "category": "Products Offered",
+        "expected_output": "There is no minimum age requirement, and our tours are designed to be suitable for all ages."
+    },
+    {
+        "question": "I'm experiencing issues with the app not recognizing my purchases.",
+        "category": "Mobile App Complaints",
+        "expected_output": "Please ensure you are logged into the correct account. If the issue persists, contact our support at support@globalaudiotours.com for further assistance."
+    },
+    {
+        "question": "How can I start my audio tour once I've purchased it?",
+        "category": "Products Offered",
+        "expected_output": "You can start your audio tour by logging into the app or website and accessing your purchased tours. If you need help, feel free to reach out."
+    },
+    {
+        "question": "Do you have a user guide for your mobile app?",
+        "category": "Android and Desktop App",
+        "expected_output": "Yes, you can find a user guide for our mobile app on our website in the 'Help' section."
+    },
+    {
+        "question": "What should I do if the app fails to install on my phone?",
+        "category": "Mobile App Complaints",
+        "expected_output": "If the app fails to install, please check your device's storage and try reinstalling it. If you need further assistance, contact our support team."
+    },
+    {
+        "question": "Are there any group discounts available?",
+        "category": "Products Offered",
+        "expected_output": "Yes, we offer group discounts for our audio tours. Please contact our support team for more information on pricing."
+    },
+    {
+        "question": "Can you help me troubleshoot my audio tour app?",
+        "category": "Mobile App Complaints",
+        "expected_output": "Of course! Please describe the issue you're facing, and I’ll do my best to assist you. You can also reach our support team at support@globalaudiotours.com."
+    },
+    {
+        "question": "The audio tour is not what I expected.",
+        "category": "Edge Cases",
+        "expected_output": "I'm sorry to hear that! Could you please provide more details about your experience? What specific aspects did not meet your expectations?"
+    },
+    {
+        "question": "Can you tell me more?",
+        "category": "Edge Cases",
+        "expected_output": "Of course! Could you specify what you'd like to know more about? Are you interested in a specific tour, feature, or service?"
+    },
+    {
+        "question": "Are there any special offers available?",
+        "category": "Products Offered",
+        "expected_output": "We frequently offer special promotions. Please check our website or subscribe to our newsletter for the latest updates."
+    },
+    {
+        "question": "What types of audio guides do you have for historical sites?",
+        "category": "Products Offered",
+        "expected_output": "We offer a variety of audio guides for historical sites, including interactive features and expert commentary. You can find more details on our website."
+    },
+    {
+        "question": "How can I cancel my audio tour?",
+        "category": "Complaints About Audio Tours",
+        "expected_output": "To cancel your audio tour, please contact our support team at support@globalaudiotours.com, and provide your booking details."
+    },
+    {
+        "question": "Why does the app keep crashing on my Android device?",
+        "category": "Mobile App Complaints",
+        "expected_output": "I'm sorry to hear about the crashing issue. Please try reinstalling the app or ensure your device is updated. If the problem persists, contact our support team."
+    },
+    {
+        "question": "How long does it usually take to receive the audio tour after purchase?",
+        "category": "Complaints About Audio Tours",
+        "expected_output": "You should receive your audio tour immediately after purchase. If not, please check your spam folder or contact our support team for assistance."
+    },
+    {
+        "question": "Why is it not working?",
+        "category": "Edge Cases",
+        "expected_output": "I'm sorry for the inconvenience. Could you please specify what is not working? Is it the app, a specific audio tour, or your account?"
+    },
+    {
+        "question": "Is your audio tour app available for Windows and Mac users?",
+        "category": "Android and Desktop App",
+        "expected_output": "Yes, our audio tour app is available for both Windows and Mac users. You can download it from our website."
+    },
+    {
+        "question": "What happens if I purchase the wrong tour?",
+        "category": "Complaints About Audio Tours",
+        "expected_output": "If you accidentally purchase the wrong tour, please contact our support team at support@globalaudiotours.com, and we will assist you with the process."
+    },
+    {
+        "question": "Can you provide assistance with my visa application to Egypt?",
+        "category": "Edge Cases",
+        "expected_output": "I'm sorry, but we do not provide visa application assistance. However, we can help you with audio tours or other travel-related inquiries."
+    },
+    {
+        "question": "Are there any mobile app features specifically for sightseeing?",
+        "category": "Android and Desktop App",
+        "expected_output": "Yes, our app includes features like GPS navigation and recommended points of interest for a better sightseeing experience."
+    },
+    {
+        "question": "I was charged for an audio tour, but I haven't gotten any confirmation. What now?",
+        "category": "Complaints About Audio Tours",
+        "expected_output": "Please check your spam folder for the confirmation email. If you still haven't received it, contact our support at support@globalaudiotours.com for assistance."
+    },
+    {
+        "question": "Is there a way to book train tickets through your service?",
+        "category": "Edge Cases",
+        "expected_output": "I'm sorry, but we do not offer train booking services. We can assist you with audio tours and tickets for attractions instead."
+    },
+    {
+        "question": "Can I pause and resume my audio tour?",
+        "category": "Products Offered",
+        "expected_output": "Yes, you can pause and resume your audio tour at any time within the app."
+    },
+    {
+        "question": "I can't find it.",
+        "category": "Edge Cases",
+        "expected_output": "Could you clarify what you're looking for? Are you having trouble finding an audio tour, a ticket, or a feature in the app?"
+    },
+    {
+        "question": "What should I do if the app doesn't update?",
+        "category": "Mobile App Complaints",
+        "expected_output": "If the app doesn't update, please check your internet connection and try again. If the problem persists, reach out to our support team for help."
+    },
+    {
+        "question": "Can I change the date of my audio tour booking?",
+        "category": "Complaints About Audio Tours",
+        "expected_output": "To change the date of your audio tour booking, please contact our support team at support@globalaudiotours.com, and provide your booking details."
+    },
+    {
+        "question": "The tour was confusing.",
+        "category": "Edge Cases",
+        "expected_output": "I'm sorry to hear that! Could you please provide more details on what was confusing? Was it the content of the tour or the app navigation?"
+    }
+]
