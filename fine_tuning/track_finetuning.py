@@ -2,7 +2,7 @@ from src.utils import create_fine_tuning
 import os
 import json
 import time
-import openai
+from openai import OpenAI
 import pandas as pd
 import dotenv
 import matplotlib.pyplot as plt
@@ -17,6 +17,9 @@ model_name = 'gpt-3.5-turbo'
 openai_key = os.getenv('OPENAI_APIKEY')
 train_file_id = os.getenv('TRAIN_FILE_ID')
 evaluation_file_id = os.getenv('EVAL_FILE_ID')
+
+# Initialize OpenAI object
+client = OpenAI(api_key=openai_key)
 
 # Start fine-tuning job
 logging.info("Starting fine-tuning job.")
@@ -35,7 +38,7 @@ full_valid_accuracy = None
 while True:
     logging.info("Polling for latest event from fine-tuning job.")
     # Poll for latest event from fine-tuning job
-    job = openai.FineTuningJob.list_events(id=fine_tuning_job_ID, limit=1)
+    job = client.fine_tuning.jobs.list_events(id=fine_tuning_job_ID, limit=1)
     
     if not job.data:
         logging.info("No job data available; waiting...\n")
@@ -119,7 +122,7 @@ while True:
 
 # Retrieve fine-tuned model and hyperparameters once the job is completed
 logging.info("Retrieving fine-tuned model and hyperparameters.")
-ft_retrieve = openai.FineTuningJob.retrieve(id=fine_tuning_job_ID)
+ft_retrieve = client.fine_tuning.jobs.retrieve(id=fine_tuning_job_ID)
 
 # Response
 logging.info("Fine-tuned model retrieved successfully.")
