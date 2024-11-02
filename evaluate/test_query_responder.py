@@ -24,10 +24,19 @@ try:
             model_output = get_model_response(api_key, fine_tuned_model_ID, question)
             
             # Add the response and model ID to dictionary
-            item["response_data"] = {
+            response_data = {
                 "fine_tuned_model_ID": fine_tuned_model_ID,
                 "model_output": model_output
             }
+
+            # Check if 'response_data' exists in items
+            if ("response_data") in item:
+                # If it exists, append response_data to the existing list
+                item["response_data"].append(response_data)
+            else:
+                # If it doesn't exist, create response_data as a list with response_data as first item
+                item["response_data"] = [response_data]
+
 
     # Overwrite the test.json with updated data
     with open("test.json", "w") as f:
