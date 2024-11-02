@@ -23,3 +23,19 @@ def create_fine_tuning(model_name, openai_key, train_id, eval_id, hyperparameter
     fine_tuning_response = client.fine_tuning.jobs.create(**args)
 
     return fine_tuning_response
+
+
+# Function to answer question using finetuned model
+def get_model_response(openai_key, fine_tuned_model_ID ,question):
+
+    client = OpenAI(api_key = openai_key)
+
+
+    response = client.chat.completions.create(
+        model = fine_tuned_model_ID,
+        messages = [
+            {"role": "system", "content": "You are a helpful customer service assistant"},
+            {"role": "user", "content": question} 
+        ]
+    )
+    return response["choices"][0]["message"]["content"]
